@@ -1,7 +1,16 @@
+using ControleDeContatos.Data;
+using ControleDeContatos.Repositorio;
+using Microsoft.AspNetCore.Hosting.Server;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddDbContext<BancoContext>(
+option => option.UseSqlServer(
+        "Data Source=.;Initial Catalog=DB_SistemaContatos;Integrated Security=True;Trust Server Certificate=True"));
+builder.Services.AddScoped<IContatoRepositorio, ContatoRepositorio>();
 
 var app = builder.Build();
 
