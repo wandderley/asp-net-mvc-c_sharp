@@ -8,7 +8,7 @@ namespace ControleDeContatos.Repositorio
         private readonly BancoContext _bancoContext;
         public ContatoRepositorio(BancoContext bancoContext)
         {
-                _bancoContext = bancoContext;
+            _bancoContext = bancoContext;
         }
 
         public List<ContatoModel> BuscarTodos()
