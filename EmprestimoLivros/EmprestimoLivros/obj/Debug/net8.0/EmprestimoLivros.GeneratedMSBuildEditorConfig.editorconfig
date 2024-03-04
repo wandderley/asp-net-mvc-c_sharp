@@ -18,6 +18,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\estudos\asp-net-mvc-c_sharp\EmprestimoLivros\EmprestimoLivros
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/estudos/asp-net-mvc-c_sharp/EmprestimoLivros/EmprestimoLivros/Views/Emprestimo/Cadastrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzdGltb1xDYWRhc3RyYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/estudos/asp-net-mvc-c_sharp/EmprestimoLivros/EmprestimoLivros/Views/Emprestimo/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzdGltb1xFZGl0YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/estudos/asp-net-mvc-c_sharp/EmprestimoLivros/EmprestimoLivros/Views/Emprestimo/Excluir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzdGltb1xFeGNsdWlyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/estudos/asp-net-mvc-c_sharp/EmprestimoLivros/EmprestimoLivros/Views/Emprestimo/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzdGltb1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
