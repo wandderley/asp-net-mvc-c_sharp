@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UvK5drkKlLHQZwGzMXje2ctrRNr8/TBugaphLEqRZI0=",
+  "Hash": "mwVa9K++zloa1edxWqCKCyPKOEsocGxT0ciEVAvaHOs=",
   "Source": "EmprestimoLivros",
   "BasePath": "_content/EmprestimoLivros",
   "Mode": "Default",
@@ -55,6 +55,25 @@
       "OriginalItemSpec": "D:\\estudos\\asp-net-mvc-c_sharp\\EmprestimoLivros\\EmprestimoLivros\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EmprestimoLivros.bundle.scp.css"
     },
     {
+      "Identity": "D:\\estudos\\asp-net-mvc-c_sharp\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\css\\Materia.css",
+      "SourceId": "EmprestimoLivros",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\estudos\\asp-net-mvc-c_sharp\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\",
+      "BasePath": "_content/EmprestimoLivros",
+      "RelativePath": "css/Materia.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Materia.css"
+    },
+    {
       "Identity": "D:\\estudos\\asp-net-mvc-c_sharp\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\css\\site.css",
       "SourceId": "EmprestimoLivros",
       "SourceType": "Discovered",
@@ -91,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\estudos\\asp-net-mvc-c_sharp\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\img\\book.png",
+      "SourceId": "EmprestimoLivros",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\estudos\\asp-net-mvc-c_sharp\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\",
+      "BasePath": "_content/EmprestimoLivros",
+      "RelativePath": "img/book.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\book.png"
     },
     {
       "Identity": "D:\\estudos\\asp-net-mvc-c_sharp\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\js\\site.js",

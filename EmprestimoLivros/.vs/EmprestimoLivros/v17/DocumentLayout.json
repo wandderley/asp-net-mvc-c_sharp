@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "D:\\estudos\\asp-net-mvc-c_sharp\\EmprestimoLivros\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA899770-6764-4EE5-A027-79581F24D557}|EmprestimoLivros\\EmprestimoLivros.csproj|d:\\estudos\\asp-net-mvc-c_sharp\\emprestimolivros\\emprestimolivros\\views\\emprestimo\\excluir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FA899770-6764-4EE5-A027-79581F24D557}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\views\\emprestimo\\excluir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FA899770-6764-4EE5-A027-79581F24D557}|EmprestimoLivros\\EmprestimoLivros.csproj|d:\\estudos\\asp-net-mvc-c_sharp\\emprestimolivros\\emprestimolivros\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FA899770-6764-4EE5-A027-79581F24D557}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA899770-6764-4EE5-A027-79581F24D557}|EmprestimoLivros\\EmprestimoLivros.csproj|d:\\estudos\\asp-net-mvc-c_sharp\\emprestimolivros\\emprestimolivros\\views\\emprestimo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA899770-6764-4EE5-A027-79581F24D557}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\views\\emprestimo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA899770-6764-4EE5-A027-79581F24D557}|EmprestimoLivros\\EmprestimoLivros.csproj|d:\\estudos\\asp-net-mvc-c_sharp\\emprestimolivros\\emprestimolivros\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA899770-6764-4EE5-A027-79581F24D557}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA899770-6764-4EE5-A027-79581F24D557}|EmprestimoLivros\\EmprestimoLivros.csproj|d:\\estudos\\asp-net-mvc-c_sharp\\emprestimolivros\\emprestimolivros\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA899770-6764-4EE5-A027-79581F24D557}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA899770-6764-4EE5-A027-79581F24D557}|EmprestimoLivros\\EmprestimoLivros.csproj|d:\\estudos\\asp-net-mvc-c_sharp\\emprestimolivros\\emprestimolivros\\views\\emprestimo\\excluir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA899770-6764-4EE5-A027-79581F24D557}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\views\\emprestimo\\excluir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA899770-6764-4EE5-A027-79581F24D557}|EmprestimoLivros\\EmprestimoLivros.csproj|d:\\estudos\\asp-net-mvc-c_sharp\\emprestimolivros\\emprestimolivros\\views\\emprestimo\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA899770-6764-4EE5-A027-79581F24D557}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\views\\emprestimo\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA899770-6764-4EE5-A027-79581F24D557}|EmprestimoLivros\\EmprestimoLivros.csproj|d:\\estudos\\asp-net-mvc-c_sharp\\emprestimolivros\\emprestimolivros\\views\\emprestimo\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -17,14 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FA899770-6764-4EE5-A027-79581F24D557}|EmprestimoLivros\\EmprestimoLivros.csproj|d:\\estudos\\asp-net-mvc-c_sharp\\emprestimolivros\\emprestimolivros\\models\\emprestimosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA899770-6764-4EE5-A027-79581F24D557}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\models\\emprestimosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA899770-6764-4EE5-A027-79581F24D557}|EmprestimoLivros\\EmprestimoLivros.csproj|d:\\estudos\\asp-net-mvc-c_sharp\\emprestimolivros\\emprestimolivros\\views\\emprestimo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FA899770-6764-4EE5-A027-79581F24D557}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\views\\emprestimo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA899770-6764-4EE5-A027-79581F24D557}|EmprestimoLivros\\EmprestimoLivros.csproj|d:\\estudos\\asp-net-mvc-c_sharp\\emprestimolivros\\emprestimolivros\\views\\emprestimo\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FA899770-6764-4EE5-A027-79581F24D557}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\views\\emprestimo\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,32 +51,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\estudos\\asp-net-mvc-c_sharp\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "EmprestimoLivros\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\estudos\\asp-net-mvc-c_sharp\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "EmprestimoLivros\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwCAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-05T01:38:18.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\estudos\\asp-net-mvc-c_sharp\\EmprestimoLivros\\EmprestimoLivros\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EmprestimoLivros\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\estudos\\asp-net-mvc-c_sharp\\EmprestimoLivros\\EmprestimoLivros\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EmprestimoLivros\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T00:38:10.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Excluir.cshtml",
               "DocumentMoniker": "D:\\estudos\\asp-net-mvc-c_sharp\\EmprestimoLivros\\EmprestimoLivros\\Views\\Emprestimo\\Excluir.cshtml",
               "RelativeDocumentMoniker": "EmprestimoLivros\\Views\\Emprestimo\\Excluir.cshtml",
               "ToolTip": "D:\\estudos\\asp-net-mvc-c_sharp\\EmprestimoLivros\\EmprestimoLivros\\Views\\Emprestimo\\Excluir.cshtml",
               "RelativeToolTip": "EmprestimoLivros\\Views\\Emprestimo\\Excluir.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAA3AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-04T00:46:29.1Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Editar.cshtml",
               "DocumentMoniker": "D:\\estudos\\asp-net-mvc-c_sharp\\EmprestimoLivros\\EmprestimoLivros\\Views\\Emprestimo\\Editar.cshtml",
               "RelativeDocumentMoniker": "EmprestimoLivros\\Views\\Emprestimo\\Editar.cshtml",
               "ToolTip": "D:\\estudos\\asp-net-mvc-c_sharp\\EmprestimoLivros\\EmprestimoLivros\\Views\\Emprestimo\\Editar.cshtml",
               "RelativeToolTip": "EmprestimoLivros\\Views\\Emprestimo\\Editar.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-04T00:21:44.15Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "EmprestimosModel.cs",
               "DocumentMoniker": "D:\\estudos\\asp-net-mvc-c_sharp\\EmprestimoLivros\\EmprestimoLivros\\Models\\EmprestimosModel.cs",
               "RelativeDocumentMoniker": "EmprestimoLivros\\Models\\EmprestimosModel.cs",
@@ -76,8 +110,7 @@
               "RelativeToolTip": "EmprestimoLivros\\Models\\EmprestimosModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T00:12:55.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T00:12:55.966Z"
             },
             {
               "$type": "Document",
@@ -87,33 +120,33 @@
               "RelativeDocumentMoniker": "EmprestimoLivros\\Views\\Emprestimo\\Cadastrar.cshtml",
               "ToolTip": "D:\\estudos\\asp-net-mvc-c_sharp\\EmprestimoLivros\\EmprestimoLivros\\Views\\Emprestimo\\Cadastrar.cshtml",
               "RelativeToolTip": "EmprestimoLivros\\Views\\Emprestimo\\Cadastrar.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-03T23:45:45.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EmprestimoController.cs",
               "DocumentMoniker": "D:\\estudos\\asp-net-mvc-c_sharp\\EmprestimoLivros\\EmprestimoLivros\\Controllers\\EmprestimoController.cs",
               "RelativeDocumentMoniker": "EmprestimoLivros\\Controllers\\EmprestimoController.cs",
               "ToolTip": "D:\\estudos\\asp-net-mvc-c_sharp\\EmprestimoLivros\\EmprestimoLivros\\Controllers\\EmprestimoController.cs",
               "RelativeToolTip": "EmprestimoLivros\\Controllers\\EmprestimoController.cs",
-              "ViewState": "AQIAAE0AAAAAAAAAAAA8wGUAAAAtAAAA",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAmwFsAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-03T23:22:48.245Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\estudos\\asp-net-mvc-c_sharp\\EmprestimoLivros\\EmprestimoLivros\\Views\\Emprestimo\\Index.cshtml",
               "RelativeDocumentMoniker": "EmprestimoLivros\\Views\\Emprestimo\\Index.cshtml",
               "ToolTip": "D:\\estudos\\asp-net-mvc-c_sharp\\EmprestimoLivros\\EmprestimoLivros\\Views\\Emprestimo\\Index.cshtml",
               "RelativeToolTip": "EmprestimoLivros\\Views\\Emprestimo\\Index.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAABsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-03T23:22:58.033Z",
               "EditorCaption": ""
