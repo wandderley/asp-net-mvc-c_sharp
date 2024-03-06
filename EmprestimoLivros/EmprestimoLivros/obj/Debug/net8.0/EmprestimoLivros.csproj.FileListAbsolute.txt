@@ -135,3 +135,10 @@ D:\estudos\asp-net-mvc-c_sharp\EmprestimoLivros\EmprestimoLivros\obj\Debug\net8.
 D:\estudos\asp-net-mvc-c_sharp\EmprestimoLivros\EmprestimoLivros\obj\Debug\net8.0\EmprestimoLivros.pdb
 D:\estudos\asp-net-mvc-c_sharp\EmprestimoLivros\EmprestimoLivros\obj\Debug\net8.0\EmprestimoLivros.genruntimeconfig.cache
 D:\estudos\asp-net-mvc-c_sharp\EmprestimoLivros\EmprestimoLivros\obj\Debug\net8.0\ref\EmprestimoLivros.dll
+D:\estudos\asp-net-mvc-c_sharp\EmprestimoLivros\EmprestimoLivros\bin\Debug\net8.0\ClosedXML.dll
+D:\estudos\asp-net-mvc-c_sharp\EmprestimoLivros\EmprestimoLivros\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+D:\estudos\asp-net-mvc-c_sharp\EmprestimoLivros\EmprestimoLivros\bin\Debug\net8.0\ExcelNumberFormat.dll
+D:\estudos\asp-net-mvc-c_sharp\EmprestimoLivros\EmprestimoLivros\bin\Debug\net8.0\Irony.dll
+D:\estudos\asp-net-mvc-c_sharp\EmprestimoLivros\EmprestimoLivros\bin\Debug\net8.0\SixLabors.Fonts.dll
+D:\estudos\asp-net-mvc-c_sharp\EmprestimoLivros\EmprestimoLivros\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\estudos\asp-net-mvc-c_sharp\EmprestimoLivros\EmprestimoLivros\bin\Debug\net8.0\XLParser.dll
