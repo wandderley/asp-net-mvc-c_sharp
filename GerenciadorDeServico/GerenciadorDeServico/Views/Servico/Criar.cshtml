@@ -1,0 +1,45 @@
+﻿@model ServicoModel
+
+@{
+    ViewData["Title"] = "Adicionar Serviço";
+}
+<div class="text-center">
+    <h1 class="display-4">Adicione um novo serviço</h1>
+</div>
+
+<form asp-controller="Servico" asp-action="Criar" method="post">
+
+
+    <div class="form-group col-md-6">
+        <label for="txtlocal" class="form-label">Local</label>
+        <input type="text" asp-for="Local" class="form-control" id="txtlocal" placeholder="Nome do Local">
+        @Html.ValidationMessageFor(x => x.Local)
+    </div>
+
+    <div class="form-group col-md-6">
+        <label for="txtnumero" class="form-label">Numero</label>
+        <input type="number" asp-for="Numero" class="form-control" id="txtnumero" placeholder="Número do Local">
+        @Html.ValidationMessageFor(x => x.Numero)
+    </div>       
+
+    <div class="form-group col-md-6">
+        <label for="txtdata" class="form-label">Data</label>
+        <input asp-for="Data" type="date" class="form-control" id="txtdata" placeholder="Dia do trabalho exercido">
+        @Html.ValidationMessageFor(x => x.Data)
+    </div>
+
+    <div class="form-group col-md-6">
+        <label for="nbvalor" class="form-label">Valor</label>
+        <input asp-for="Valor" type="number" class="form-control" id="nbvalor" placeholder="Preço do serviço">
+        @Html.ValidationMessageFor(x => x.Valor)
+    </div>
+
+    <div class="form-group col-md-6">
+        <label for="txtdescricao" class="form-label">Descrição</label>
+        <textarea asp-for="Descricao" class="form-control" id="txtdescricao" rows="3"></textarea>
+        @Html.ValidationMessageFor(x => x.Descricao)
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Adicionar</button>
+    <button type="submit" class="btn btn-secondary" asp-controller="Servico" asp-action="Index">Voltar</button>
+</form>

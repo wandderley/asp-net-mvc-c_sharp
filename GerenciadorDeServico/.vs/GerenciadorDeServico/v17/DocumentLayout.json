@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\estudos\\asp-net-mvc-c_sharp\\GerenciadorDeServico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0F74D5-E567-4189-AA5D-9E8E9683542A}|GerenciadorDeServico\\GerenciadorDeServico.csproj|d:\\estudos\\asp-net-mvc-c_sharp\\gerenciadordeservico\\gerenciadordeservico\\views\\servico\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D0F74D5-E567-4189-AA5D-9E8E9683542A}|GerenciadorDeServico\\GerenciadorDeServico.csproj|solutionrelative:gerenciadordeservico\\views\\servico\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0F74D5-E567-4189-AA5D-9E8E9683542A}|GerenciadorDeServico\\GerenciadorDeServico.csproj|d:\\estudos\\asp-net-mvc-c_sharp\\gerenciadordeservico\\gerenciadordeservico\\views\\servico\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D0F74D5-E567-4189-AA5D-9E8E9683542A}|GerenciadorDeServico\\GerenciadorDeServico.csproj|solutionrelative:gerenciadordeservico\\views\\servico\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\estudos\\asp-net-mvc-c_sharp\\GerenciadorDeServico\\GerenciadorDeServico\\Views\\Servico\\Index.cshtml",
+              "RelativeDocumentMoniker": "GerenciadorDeServico\\Views\\Servico\\Index.cshtml",
+              "ToolTip": "D:\\estudos\\asp-net-mvc-c_sharp\\GerenciadorDeServico\\GerenciadorDeServico\\Views\\Servico\\Index.cshtml",
+              "RelativeToolTip": "GerenciadorDeServico\\Views\\Servico\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T22:11:45.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "D:\\estudos\\asp-net-mvc-c_sharp\\GerenciadorDeServico\\GerenciadorDeServico\\Views\\Servico\\Editar.cshtml",
+              "RelativeDocumentMoniker": "GerenciadorDeServico\\Views\\Servico\\Editar.cshtml",
+              "ToolTip": "D:\\estudos\\asp-net-mvc-c_sharp\\GerenciadorDeServico\\GerenciadorDeServico\\Views\\Servico\\Editar.cshtml",
+              "RelativeToolTip": "GerenciadorDeServico\\Views\\Servico\\Editar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T20:25:52.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

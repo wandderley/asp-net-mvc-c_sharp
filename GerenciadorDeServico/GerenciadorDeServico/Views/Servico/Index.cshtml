@@ -1,0 +1,50 @@
+﻿@model List<ServicoModel>
+
+@{
+    ViewData["Title"] = "Meus Serviço";
+}
+<h1> Serviços de Nome_do_Usuario</h1>
+
+<div class="d-grid gap-2 d-md-flex justify-content-md-start">
+    <a role="button" class="btn btn-primary" asp-controller="Servico" asp-action="Criar">Adicionar Serviço</a>
+</div>
+
+<br />
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Local</th>
+            <th scope="col">Numero</th>
+            <th scope="col">Data</th>
+            <th scope="col">Valor</th>
+            <th scope="col">Descrição</th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if(Model != null && Model.Any())
+        {
+            foreach (ServicoModel servico in Model)
+            {
+                <tr>
+                    <th scope="row">@servico.Id</th>
+                    <td>@servico.Local</td>
+                    <td>@servico.Numero</td>
+                    <td>@servico.Data</td>
+                    <td>@servico.Valor</td>
+                    <td>@servico.Descricao</td>
+                    <td>
+                        <div class="btn-group" role="group">
+                            <a role="button" class="btn btn-primary" asp-route-id="@servico.Id" asp-controller="Servico" asp-action="Editar">Editar</a>
+                            <a role="button" class="btn btn-danger" asp-route-id="@servico.Id" asp-controller="Servico" asp-action="ApagarConfirmacao">Apagar</a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        }
+
+
+    </tbody>
+</table>

@@ -1,0 +1,42 @@
+﻿@model ServicoModel
+
+@{
+    ViewData["Title"] = "Confirmação de apagar o Serviço";
+}
+
+<div class="text-center">
+    <h3> Realmente deseja apagar o serviço?</h3>
+</div>
+
+<form asp-controller="Servico" asp-action="Editar" method="post">
+
+    <input type="hidden" asp-for="Id" />
+    <div class="form-group col-md-6">
+        <label for="txtlocal" class="form-label">Local</label>
+        <input type="text" asp-for="Local" class="form-control" id="txtlocal" placeholder="Nome do Local" disabled>
+    </div>
+
+    <div class="form-group col-md-6">
+        <label for="txtnumero" class="form-label">Numero</label>
+        <input type="number" asp-for="Numero" class="form-control" id="txtnumero" placeholder="Número do Local" disabled>
+    </div>
+
+    <div class="form-group col-md-6">
+        <label for="txtdata" class="form-label">Data</label>
+        <input asp-for="Data" type="date" class="form-control" id="txtdata" placeholder="Dia do trabalho exercido" disabled>
+    </div>
+
+    <div class="form-group col-md-6">
+        <label for="nbvalor" class="form-label">Valor</label>
+        <input asp-for="Valor" type="number" class="form-control" id="nbvalor" placeholder="Preço do serviço" disabled>
+    </div>
+
+    <div class="form-group col-md-6">
+        <label for="txtdescricao" class="form-label">Descrição</label>
+        <textarea asp-for="Descricao" class="form-control" id="txtdescricao" rows="3" disabled></textarea>
+    </div>
+    <br />
+</form>
+<a class="btn btn-primary" role="button" asp-controller="Servico" asp-action="Index">Cancelar Exclusão</a>
+<a class="btn btn-danger" role="button" asp-controller="Servico" asp-action="Apagar" asp-route-id="@Model.Id">Confirma Exclusão</a>
+
