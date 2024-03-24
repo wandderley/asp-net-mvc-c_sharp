@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GerenciadorDeServico")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5edd26871f7e10cea3f9e52f5adb5c34a4787d99")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e425284280790d71fa0eb619e9640ccfe98f896b")]
 [assembly: System.Reflection.AssemblyProductAttribute("GerenciadorDeServico")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GerenciadorDeServico")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

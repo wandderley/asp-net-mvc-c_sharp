@@ -2,6 +2,7 @@
 
 @{
     ViewData["Title"] = "Meus Serviço";
+    int indice = 1;
 }
 <h1> Serviços de Nome_do_Usuario</h1>
 
@@ -29,10 +30,15 @@
             foreach (ServicoModel servico in Model)
             {
                 <tr>
-                    <th scope="row">@servico.Id</th>
+                    <th scope="row">@indice</th>
                     <td>@servico.Local</td>
                     <td>@servico.Numero</td>
-                    <td>@servico.Data</td>
+                    <td>
+                        @if (servico.Data.HasValue)
+                        {
+                            @servico.Data.Value.ToShortDateString()
+                        }
+                    </td>
                     <td>@servico.Valor</td>
                     <td>@servico.Descricao</td>
                     <td>
@@ -42,6 +48,7 @@
                         </div>
                     </td>
                 </tr>
+                indice++;
             }
         }
 

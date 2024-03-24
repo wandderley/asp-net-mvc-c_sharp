@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6D0F74D5-E567-4189-AA5D-9E8E9683542A}|GerenciadorDeServico\\GerenciadorDeServico.csproj|d:\\estudos\\asp-net-mvc-c_sharp\\gerenciadordeservico\\gerenciadordeservico\\views\\servico\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6D0F74D5-E567-4189-AA5D-9E8E9683542A}|GerenciadorDeServico\\GerenciadorDeServico.csproj|solutionrelative:gerenciadordeservico\\views\\servico\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D0F74D5-E567-4189-AA5D-9E8E9683542A}|GerenciadorDeServico\\GerenciadorDeServico.csproj|d:\\estudos\\asp-net-mvc-c_sharp\\gerenciadordeservico\\gerenciadordeservico\\views\\servico\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6D0F74D5-E567-4189-AA5D-9E8E9683542A}|GerenciadorDeServico\\GerenciadorDeServico.csproj|solutionrelative:gerenciadordeservico\\views\\servico\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,22 +28,9 @@
               "RelativeDocumentMoniker": "GerenciadorDeServico\\Views\\Servico\\Index.cshtml",
               "ToolTip": "D:\\estudos\\asp-net-mvc-c_sharp\\GerenciadorDeServico\\GerenciadorDeServico\\Views\\Servico\\Index.cshtml",
               "RelativeToolTip": "GerenciadorDeServico\\Views\\Servico\\Index.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAAAJAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADIAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-21T22:11:45.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Editar.cshtml",
-              "DocumentMoniker": "D:\\estudos\\asp-net-mvc-c_sharp\\GerenciadorDeServico\\GerenciadorDeServico\\Views\\Servico\\Editar.cshtml",
-              "RelativeDocumentMoniker": "GerenciadorDeServico\\Views\\Servico\\Editar.cshtml",
-              "ToolTip": "D:\\estudos\\asp-net-mvc-c_sharp\\GerenciadorDeServico\\GerenciadorDeServico\\Views\\Servico\\Editar.cshtml",
-              "RelativeToolTip": "GerenciadorDeServico\\Views\\Servico\\Editar.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T20:25:52.668Z",
+              "WhenOpened": "2024-03-24T02:00:21.756Z",
               "EditorCaption": ""
             }
           ]
