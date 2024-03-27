@@ -11,6 +11,7 @@ builder.Services.AddDbContext<BancoContext>(
 option => option.UseSqlServer(
         "Data Source=.;Initial Catalog=DB_SistemaContatos;Integrated Security=True;Trust Server Certificate=True"));
 builder.Services.AddScoped<IContatoRepositorio, ContatoRepositorio>();
+builder.Services.AddScoped<IUsuarioRepositorio, UsuarioRepositorio>();
 
 var app = builder.Build();
 
