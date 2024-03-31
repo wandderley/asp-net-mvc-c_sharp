@@ -79,7 +79,36 @@ namespace ControleDeContatos.Controllers
             }
         }
 
+        [HttpPost]
+        public IActionResult Editar(UsuarioSemSenhaModel usuarioSemSenhaModel)
+        {
+            try
+            {
+                UsuarioModel usuario = null;
 
+                if (ModelState.IsValid)
+                {
+                    usuario = new UsuarioModel()
+                    {
+                        Id = usuarioSemSenhaModel.Id,
+                        Nome = usuarioSemSenhaModel.Nome,
+                        Login = usuarioSemSenhaModel.Login,
+                        Email = usuarioSemSenhaModel.Email,
+                        Perfil = usuarioSemSenhaModel.Perfil
+                    };
+
+                    usuario = _usuarioRepositorio.Atualizar(usuario);
+                    TempData["MensagemSucesso"] = "Usuário alterado com sucesso!";
+                    return RedirectToAction("Index");
+                }
+                return View("Editar", usuario);
+            }
+            catch (System.Exception erro)
+            {
+                TempData["MensagemErro"] = $"Ops, não conseguimos atualizar seu usuário, tente novamentem, detalhe do erro{erro.Message}";
+                return RedirectToAction("Index");
+            }
+        }
 
     }
 }

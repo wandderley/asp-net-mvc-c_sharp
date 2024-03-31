@@ -87,7 +87,7 @@ namespace ControleDeContatos.Controllers
             {
                 if (ModelState.IsValid)
                 {
-                    _contatoRepositorio.Atualizar(contato);
+                    contato = _contatoRepositorio.Atualizar(contato);
                     TempData["MensagemSucesso"] = "Contato alterado com sucesso!";
                     return RedirectToAction("Index");
                 }
@@ -95,7 +95,7 @@ namespace ControleDeContatos.Controllers
             }
             catch (System.Exception erro)
             {
-                TempData["MensagemErro"] = $"Ops, não conseguimos atualizar seu contatomm, tente novamentem, detalhe do erro{erro.Message}";
+                TempData["MensagemErro"] = $"Ops, não conseguimos atualizar seu contato, tente novamentem, detalhe do erro{erro.Message}";
                     return RedirectToAction("Index");
             }
         }
