@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|d:\\estudos\\asp-net-mvc-c_sharp\\controledecontatos\\controledecontatos\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|d:\\estudos\\asp-net-mvc-c_sharp\\controledecontatos\\controledecontatos\\filters\\paginarestritasomenteadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\filters\\paginarestritasomenteadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|d:\\estudos\\asp-net-mvc-c_sharp\\controledecontatos\\controledecontatos\\views\\restrito\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\restrito\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|d:\\estudos\\asp-net-mvc-c_sharp\\controledecontatos\\controledecontatos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|d:\\estudos\\asp-net-mvc-c_sharp\\controledecontatos\\controledecontatos\\controllers\\restritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\controllers\\restritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|d:\\estudos\\asp-net-mvc-c_sharp\\controledecontatos\\controledecontatos\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|d:\\estudos\\asp-net-mvc-c_sharp\\controledecontatos\\controledecontatos\\helper\\sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\helper\\sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|d:\\estudos\\asp-net-mvc-c_sharp\\controledecontatos\\controledecontatos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|d:\\estudos\\asp-net-mvc-c_sharp\\controledecontatos\\controledecontatos\\views\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|d:\\estudos\\asp-net-mvc-c_sharp\\controledecontatos\\controledecontatos\\controledecontatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\controledecontatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,66 +43,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "ControleDeContatos\\Controllers\\LoginController.cs",
-              "ToolTip": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "ControleDeContatos\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "ControleDeContatos\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T02:08:56.155Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Sessao.cs",
-              "DocumentMoniker": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Helper\\Sessao.cs",
-              "RelativeDocumentMoniker": "ControleDeContatos\\Helper\\Sessao.cs",
-              "ToolTip": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Helper\\Sessao.cs",
-              "RelativeToolTip": "ControleDeContatos\\Helper\\Sessao.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T02:08:30.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ControleDeContatos",
-              "DocumentMoniker": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
-              "RelativeDocumentMoniker": "ControleDeContatos\\ControleDeContatos.csproj",
-              "ToolTip": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
-              "RelativeToolTip": "ControleDeContatos\\ControleDeContatos.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-31T02:01:12.752Z",
+              "WhenOpened": "2024-03-31T15:18:29.798Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Views\\Shared\\Components\\Menu\\Default.cshtml",
-              "RelativeDocumentMoniker": "ControleDeContatos\\Views\\Shared\\Components\\Menu\\Default.cshtml",
-              "ToolTip": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Views\\Shared\\Components\\Menu\\Default.cshtml",
-              "RelativeToolTip": "ControleDeContatos\\Views\\Shared\\Components\\Menu\\Default.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAGAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ControleDeContatos\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-31T01:57:26.593Z",
+              "WhenOpened": "2024-03-31T15:16:09.645Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ControleDeContatos\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ControleDeContatos\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA0AAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Views\\Restrito\\Index.cshtml",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Views\\Restrito\\Index.cshtml",
+              "ToolTip": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Views\\Restrito\\Index.cshtml",
+              "RelativeToolTip": "ControleDeContatos\\Views\\Restrito\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-31T01:55:38.072Z",
+              "WhenOpened": "2024-03-31T15:15:35.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RestritoController.cs",
+              "DocumentMoniker": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Controllers\\RestritoController.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Controllers\\RestritoController.cs",
+              "ToolTip": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Controllers\\RestritoController.cs",
+              "RelativeToolTip": "ControleDeContatos\\Controllers\\RestritoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T15:14:49.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaginaRestritaSomenteAdmin.cs",
+              "DocumentMoniker": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Filters\\PaginaRestritaSomenteAdmin.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Filters\\PaginaRestritaSomenteAdmin.cs",
+              "ToolTip": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Filters\\PaginaRestritaSomenteAdmin.cs",
+              "RelativeToolTip": "ControleDeContatos\\Filters\\PaginaRestritaSomenteAdmin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T15:10:23.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ControleDeContatos\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T15:08:26.528Z",
               "EditorCaption": ""
             }
           ]

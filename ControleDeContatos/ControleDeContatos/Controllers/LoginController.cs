@@ -23,6 +23,7 @@ namespace ControleDeContatos.Controllers
             return View();
         }
 
+        [HttpGet]
         public IActionResult Sair()
         {
             _sessao.RemoverSessaoDoUsuario();
