@@ -136,3 +136,4 @@ D:\estudos\asp-net-mvc-c_sharp\ControleDeContatos\ControleDeContatos\bin\Debug\n
 D:\estudos\asp-net-mvc-c_sharp\ControleDeContatos\ControleDeContatos\obj\Debug\net8.0\ControleDeContatos.csproj.AssemblyReference.cache
 D:\estudos\asp-net-mvc-c_sharp\ControleDeContatos\ControleDeContatos\obj\Debug\net8.0\Controle.6EBC8F93.Up2Date
 D:\estudos\asp-net-mvc-c_sharp\ControleDeContatos\ControleDeContatos\obj\Debug\net8.0\scopedcss\Views\Shared\_LayoutDeslogado.cshtml.rz.scp.css
+D:\estudos\asp-net-mvc-c_sharp\ControleDeContatos\ControleDeContatos\bin\Debug\net8.0\Newtonsoft.Json.dll
