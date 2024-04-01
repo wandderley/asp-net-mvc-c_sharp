@@ -46,6 +46,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/estudos/asp-net-mvc-c_sharp/ControleDeContatos/ControleDeContatos/Views/Login/RedefinirSenha.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cUmVkZWZpbmlyU2VuaGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/estudos/asp-net-mvc-c_sharp/ControleDeContatos/ControleDeContatos/Views/Restrito/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdHJpdG9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
