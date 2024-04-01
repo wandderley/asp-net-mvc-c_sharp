@@ -28,6 +28,7 @@ namespace ControleDeContatos.Repositorio
         public UsuarioModel Adicionar(UsuarioModel usuario)
         {
             usuario.DataCadastro = DateTime.Now;
+            usuario.SetSenhaHash(); // transforma a senha para hash
             // gravar no banco de dados
             _context.Usuarios.Add(usuario);
             _context.SaveChanges();
