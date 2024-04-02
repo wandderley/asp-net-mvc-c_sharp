@@ -24,7 +24,7 @@ namespace ControleDeContatos.Repositorio
         {
             return _context.Usuarios.ToList();
         }
-        public UsuarioModel ListarPorId(int id)
+        public UsuarioModel BuscarPorId(int id)
         {
             return _context.Usuarios.FirstOrDefault(x => x.Id == id);
         }
@@ -41,7 +41,7 @@ namespace ControleDeContatos.Repositorio
 
         public UsuarioModel Atualizar(UsuarioModel usuario)
         {
-            UsuarioModel usuarioDB = ListarPorId(usuario.Id);
+            UsuarioModel usuarioDB = BuscarPorId(usuario.Id);
 
             if (usuarioDB == null) throw new System.Exception("Houve um erro na atualização do usuário");
 
@@ -56,10 +56,29 @@ namespace ControleDeContatos.Repositorio
 
             return usuarioDB;
         }
+        public UsuarioModel AlterarSenha(AlterarSenhaModel alterarSenhaModel)
+        {
+            UsuarioModel usuariodb = BuscarPorId(alterarSenhaModel.Id);
+
+            if (usuariodb == null) throw new Exception("Houve um erro na atualização da senha, usuário não encontrado!");
+
+            if (!usuariodb.SenhaValida(alterarSenhaModel.SenhaAtual)) throw new Exception("Senha atual não confere!");
+
+            if (usuariodb.SenhaValida(alterarSenhaModel.NovaSenha)) throw new Exception("Nova senha deve ser diferente da senha atual!");
+
+            usuariodb.SetNovaSenha(alterarSenhaModel.NovaSenha);
+
+            usuariodb.DataAtualização = DateTime.Now;
+
+            _context.Usuarios.Update(usuariodb);
+            _context.SaveChanges(); 
+
+            return usuariodb;       
+        }
 
         public bool Apagar(int id)
         {
-            UsuarioModel usuarioDB = ListarPorId(id);
+            UsuarioModel usuarioDB = BuscarPorId(id);
 
             if (usuarioDB == null) throw new System.Exception("Houve um erro ao deletar o usuário");
 

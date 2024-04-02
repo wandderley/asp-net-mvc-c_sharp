@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace ControleDeContatos.Controllers
 {
     [PaginaRestritaSomenteAdmin]
+    [PaginaParaUsuarioLogado]
     public class UsuarioController : Controller
     {
         private readonly IUsuarioRepositorio _usuarioRepositorio;
@@ -27,13 +28,13 @@ namespace ControleDeContatos.Controllers
 
         public IActionResult Editar(int id)
         {
-            UsuarioModel usuario = _usuarioRepositorio.ListarPorId(id);
+            UsuarioModel usuario = _usuarioRepositorio.BuscarPorId(id);
             return View(usuario);
         }
 
         public IActionResult ApagarConfirmacao(int id)
         {
-            UsuarioModel usuario = _usuarioRepositorio.ListarPorId(id);
+            UsuarioModel usuario = _usuarioRepositorio.BuscarPorId(id);
             return View(usuario);
         }  
 

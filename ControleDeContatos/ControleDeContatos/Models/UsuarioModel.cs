@@ -36,6 +36,11 @@ namespace ControleDeContatos.Models
             Senha = Senha.GerarHash();
         }
 
+        public void SetNovaSenha(string novaSenha)
+        {
+            Senha = novaSenha.GerarHash();
+        }
+
         public string GerarNovaSenha()
         {
             string novaSenha = Guid.NewGuid().ToString().Substring(0, 8); // passou para nova senha a informação do guid apenas os primeiros 8 caracteres
