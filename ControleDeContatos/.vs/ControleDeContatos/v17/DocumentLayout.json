@@ -3,36 +3,8 @@
   "WorkspaceRootPath": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|d:\\estudos\\asp-net-mvc-c_sharp\\controledecontatos\\controledecontatos\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|d:\\estudos\\asp-net-mvc-c_sharp\\controledecontatos\\controledecontatos\\data\\map\\contatomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\data\\map\\contatomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|d:\\estudos\\asp-net-mvc-c_sharp\\controledecontatos\\controledecontatos\\repositorio\\contatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\repositorio\\contatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|d:\\estudos\\asp-net-mvc-c_sharp\\controledecontatos\\controledecontatos\\repositorio\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\repositorio\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|d:\\estudos\\asp-net-mvc-c_sharp\\controledecontatos\\controledecontatos\\models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|d:\\estudos\\asp-net-mvc-c_sharp\\controledecontatos\\controledecontatos\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|d:\\estudos\\asp-net-mvc-c_sharp\\controledecontatos\\controledecontatos\\repositorio\\icontatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\repositorio\\icontatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|d:\\estudos\\asp-net-mvc-c_sharp\\controledecontatos\\controledecontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5D65CD6-8A5B-460A-A51F-9F14FA43329A}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,106 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IUsuarioRepositorio.cs",
-              "DocumentMoniker": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Repositorio\\IUsuarioRepositorio.cs",
-              "RelativeDocumentMoniker": "ControleDeContatos\\Repositorio\\IUsuarioRepositorio.cs",
-              "ToolTip": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Repositorio\\IUsuarioRepositorio.cs",
-              "RelativeToolTip": "ControleDeContatos\\Repositorio\\IUsuarioRepositorio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T20:51:58.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ContatoRepositorio.cs",
-              "DocumentMoniker": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Repositorio\\ContatoRepositorio.cs",
-              "RelativeDocumentMoniker": "ControleDeContatos\\Repositorio\\ContatoRepositorio.cs",
-              "ToolTip": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Repositorio\\ContatoRepositorio.cs",
-              "RelativeToolTip": "ControleDeContatos\\Repositorio\\ContatoRepositorio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T20:42:12.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IContatoRepositorio.cs",
-              "DocumentMoniker": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Repositorio\\IContatoRepositorio.cs",
-              "RelativeDocumentMoniker": "ControleDeContatos\\Repositorio\\IContatoRepositorio.cs",
-              "ToolTip": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Repositorio\\IContatoRepositorio.cs",
-              "RelativeToolTip": "ControleDeContatos\\Repositorio\\IContatoRepositorio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T20:41:47.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ContatoController.cs",
-              "DocumentMoniker": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Controllers\\ContatoController.cs",
-              "RelativeDocumentMoniker": "ControleDeContatos\\Controllers\\ContatoController.cs",
-              "ToolTip": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Controllers\\ContatoController.cs",
-              "RelativeToolTip": "ControleDeContatos\\Controllers\\ContatoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T20:41:19.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BancoContext.cs",
-              "DocumentMoniker": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Data\\BancoContext.cs",
-              "RelativeDocumentMoniker": "ControleDeContatos\\Data\\BancoContext.cs",
-              "ToolTip": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Data\\BancoContext.cs",
-              "RelativeToolTip": "ControleDeContatos\\Data\\BancoContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T20:34:37.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ContatoMap.cs",
-              "DocumentMoniker": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Data\\Map\\ContatoMap.cs",
-              "RelativeDocumentMoniker": "ControleDeContatos\\Data\\Map\\ContatoMap.cs",
-              "ToolTip": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Data\\Map\\ContatoMap.cs",
-              "RelativeToolTip": "ControleDeContatos\\Data\\Map\\ContatoMap.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T20:29:37.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "UsuarioModel.cs",
               "DocumentMoniker": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Models\\UsuarioModel.cs",
               "RelativeDocumentMoniker": "ControleDeContatos\\Models\\UsuarioModel.cs",
               "ToolTip": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Models\\UsuarioModel.cs",
               "RelativeToolTip": "ControleDeContatos\\Models\\UsuarioModel.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAwwBwAAAA/AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T20:21:18.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ContatoModel.cs",
-              "DocumentMoniker": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Models\\ContatoModel.cs",
-              "RelativeDocumentMoniker": "ControleDeContatos\\Models\\ContatoModel.cs",
-              "ToolTip": "D:\\estudos\\asp-net-mvc-c_sharp\\ControleDeContatos\\ControleDeContatos\\Models\\ContatoModel.cs",
-              "RelativeToolTip": "ControleDeContatos\\Models\\ContatoModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T20:20:44.667Z",
+              "WhenOpened": "2024-04-09T22:25:14.632Z",
               "EditorCaption": ""
             }
           ]

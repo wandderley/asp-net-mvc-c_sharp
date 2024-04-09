@@ -70,9 +70,10 @@ namespace ControleDeContatos.Controllers
                 {
                     usuario = _usuarioRepositorio.Adicionar(usuario);
                     TempData["MensagemSucesso"] = "Usuario cadastrado com sucesso!";
+
                     return RedirectToAction("Index");
                 }
-
+                TempData["MensagemErro"] = $"Ops, Model Usuario não é valida";
                 return View(usuario);
             }
             catch (System.Exception erro)
@@ -104,6 +105,7 @@ namespace ControleDeContatos.Controllers
                     TempData["MensagemSucesso"] = "Usuário alterado com sucesso!";
                     return RedirectToAction("Index");
                 }
+                TempData["MensagemErro"] = $"Ops, Model Usuario não é valida";
                 return View("Editar", usuario);
             }
             catch (System.Exception erro)

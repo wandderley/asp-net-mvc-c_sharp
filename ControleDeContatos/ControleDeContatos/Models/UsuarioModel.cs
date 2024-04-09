@@ -6,6 +6,11 @@ namespace ControleDeContatos.Models
 {
     public class UsuarioModel
     {
+        public UsuarioModel()
+        {
+            Contatos = new List<ContatoModel>();
+        }
+
         public int Id { get; set; }
 
         [Required(ErrorMessage = "Digite o nome do usuário")]
@@ -25,8 +30,7 @@ namespace ControleDeContatos.Models
         public string Senha { get; set;}
         public DateTime DataCadastro { get; set;}
         public DateTime? DataAtualização { get; set;}
-
-        public virtual List<ContatoModel> Contatos { get; set;}
+        public virtual List<ContatoModel> Contatos { get; set; }
 
         public bool SenhaValida(string senha)
         {

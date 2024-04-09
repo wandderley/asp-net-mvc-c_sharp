@@ -69,7 +69,7 @@ namespace ControleDeContatos.Controllers
         public IActionResult Criar(ContatoModel contato)
         {
             try
-            {
+            {              
                 if (ModelState.IsValid)
                 {
                     UsuarioModel usuarioLogado = _sessao.BuscarSessaoDoUsuario();
@@ -79,7 +79,7 @@ namespace ControleDeContatos.Controllers
                     TempData["MensagemSucesso"] = "Contato cadastrado com sucesso!";
                     return RedirectToAction("Index");
                 }
-
+                TempData["MensagemErro"] = $"Ops, Model Contato não é valida";
                 return View(contato);
             }
             catch (System.Exception erro)
@@ -103,6 +103,7 @@ namespace ControleDeContatos.Controllers
                     TempData["MensagemSucesso"] = "Contato alterado com sucesso!";
                     return RedirectToAction("Index");
                 }
+                TempData["MensagemErro"] = $"Ops, Model Contato não é valida";
                 return View("Editar", contato);
             }
             catch (System.Exception erro)

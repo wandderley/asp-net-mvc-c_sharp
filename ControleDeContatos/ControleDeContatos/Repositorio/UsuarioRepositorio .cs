@@ -1,4 +1,5 @@
 ﻿using ControleDeContatos.Data;
+using ControleDeContatos.Helper;
 using ControleDeContatos.Models;
 
 namespace ControleDeContatos.Repositorio
@@ -6,9 +7,11 @@ namespace ControleDeContatos.Repositorio
     public class UsuarioRepositorio : IUsuarioRepositorio
     {
         private readonly BancoContext _context;
-        public UsuarioRepositorio(BancoContext bancoContext)
+        private readonly ISessao _sessao;
+        public UsuarioRepositorio(BancoContext bancoContext, ISessao sessao)
         {
             this._context = bancoContext;
+            _sessao = sessao;
         }
 
         public UsuarioModel BuscarPorLogin(string login)
@@ -30,7 +33,7 @@ namespace ControleDeContatos.Repositorio
         }
 
         public UsuarioModel Adicionar(UsuarioModel usuario)
-        {
+        {          
             usuario.DataCadastro = DateTime.Now;
             usuario.SetSenhaHash(); // transforma a senha para hash
             // gravar no banco de dados
